@@ -1,0 +1,6 @@
+﻿namespace DevicesSearch
+{
+    class AssemblyInfo
+    {
+    }
+}
