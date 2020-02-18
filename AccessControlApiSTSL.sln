@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Query.Api", "Query.Api\Quer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryManagement", "QueryManagement\QueryManagement.csproj", "{6A27D14E-3E4C-435B-A6BA-0A52F3FE83DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AeroManagement", "AeroManagement\AeroManagement.csproj", "{B6FB51FB-F984-4F21-BC9F-BEE3D23BE44A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AeroApi", "AeroApi\AeroApi.csproj", "{BFE44E44-F929-49FF-B8F8-045BF165187F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{6A27D14E-3E4C-435B-A6BA-0A52F3FE83DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A27D14E-3E4C-435B-A6BA-0A52F3FE83DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A27D14E-3E4C-435B-A6BA-0A52F3FE83DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FB51FB-F984-4F21-BC9F-BEE3D23BE44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FB51FB-F984-4F21-BC9F-BEE3D23BE44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FB51FB-F984-4F21-BC9F-BEE3D23BE44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FB51FB-F984-4F21-BC9F-BEE3D23BE44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE44E44-F929-49FF-B8F8-045BF165187F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE44E44-F929-49FF-B8F8-045BF165187F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE44E44-F929-49FF-B8F8-045BF165187F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE44E44-F929-49FF-B8F8-045BF165187F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
